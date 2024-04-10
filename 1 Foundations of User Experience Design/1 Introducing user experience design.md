@@ -72,7 +72,7 @@ Process of taking product from idea to reality.
 - Research
 - Wireframe
 - Prototype
-- Create information architecture (how product is irgaonised / structured)
+- Create information architecture (how product is organised / structured)
 - Communicate effectively
 
 ### Generalist
