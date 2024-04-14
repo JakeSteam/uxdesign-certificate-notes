@@ -10,4 +10,4 @@ Miscellaneous notes made during study for [Google's UX Design Professional Certi
 
 ## License
 
-Feel free to use anything in here for anything you want, except any diagrams, which were created by Google / Coursera.
+Feel free to use anything in here for anything you want. This excludes any course content included under fair use, e.g. any diagrams or quoted text, all of which was created & is owned by Google / Coursera.
