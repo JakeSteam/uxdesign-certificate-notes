@@ -40,3 +40,11 @@ Disadvantages:
 4. Start with homepage
 5. Name main categories
 6. Add subcategories
+
+## Transitioning from paper to digital
+
+How do you know if you're ready?
+
+1. Do you have an idea of the layout you're aiming for?
+2. Have you received feedback from peers / managers on paper wireframes?
+3. Are you ready to consider basic visual cues
